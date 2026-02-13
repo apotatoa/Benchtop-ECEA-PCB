@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8db87aa2-9ed2-471c-b0e8-07359e7c1d91")
+	(paper "USLetter")
+	(title_block
+		(title "Benchtop Workshop PCB Design")
+		(date "2026-02-13")
+		(rev "0")
+		(company "ECE Ambassadors - NC State")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
