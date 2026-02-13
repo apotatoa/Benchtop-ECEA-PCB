@@ -3,7 +3,10 @@
 
 
 ##### Contribution:
-To contribute, create a new branch `git branch {branch name}` and `git switch {branch name}`
+To contribute, create a new branch \
+`git branch {branch name}` \
+`git switch {branch name}`
+
 Add your feature / circuit to your branch.
 Open a pull request to merge your feature into the **main** branch
 
